@@ -8,7 +8,7 @@ Example `feat-wip: setup landing page`
 - **fix:** Bug fix.
 - **com** Comment or documentation change.
 - **style** Style change, does not effect function of code.
-- **refactor** Code change that doesnt fix a bug or add new feature.
+- **ref** Code change that doesnt fix a bug or add new feature.
 - **perf** Performance change
 - **test** test related code
   
