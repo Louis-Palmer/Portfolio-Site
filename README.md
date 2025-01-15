@@ -1,3 +1,7 @@
+# Repo 
+I had troubles deploying my portfolio to my custom domain so i started a new repo using the template and moved everything over. 
+
+
 # Portfolio-Site
 
 ## Commit Message Format
