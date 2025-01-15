@@ -11,6 +11,7 @@ Example `feat-wip: setup landing page`
 - **ref** Code change that doesnt fix a bug or add new feature.
 - **perf** Performance change
 - **test** test related code
+- **imp** importing or adding new files, such as packages and images.
   
 ### State
 - **wip** Work in progress, so incomplete code.
